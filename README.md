@@ -206,14 +206,10 @@ python test.py
 
 ## 📊 Dataset
 
-Model trained on facial expression datasets (e.g., FER2013)
+Model trained on facial expression datasets 
 
 - Grayscale facial images  
 - Emotion-labelled data  
 
 ---
 
-## 👩‍💻 Author
-
-Sowmya Ramaraj  
-Aspiring Data Analyst | AI & Data Enthusiast
